@@ -1,4 +1,5 @@
 {
     "success": true,
-    "test": true
+    "test": true,
+    "merge": "master"
 }
